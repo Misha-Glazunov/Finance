@@ -3,7 +3,7 @@ finance-app
 Технологии: Java (Collections, I/O Streams), ООП
 
 Пример работы приложения:
-https://www.dropbox.com/scl/fi/dvtcdv3ma5c9novllkafj/unknown_2025.10.08-19.57.mp4?rlkey=z7npw728rb75c0uzb2sg58gzz&st=wpg4ev93&dl=0
+<iframe width="560" height="315" src="https://dl.dropbox.com/scl/fi/dvtcdv3ma5c9novllkafj/unknown_2025.10.08-19.57.mp4?rlkey=z7npw728rb75c0uzb2sg58gzz&st=cqmajsae&dl=0" frameborder="0" allowfullscreen></iframe>
 
 📋 Оглавление
 1. Назначение проекта

@@ -36,3 +36,4 @@ finance-app - это консольное приложение, разработ
 - Общие суммы доходов и расходов
 - Остаток бюджета по каждой категории
 - Детальная статистика по всем операциям
+https://dl.dropbox.com/scl/fi/dvtcdv3ma5c9novllkafj/unknown_2025.10.08-19.57.mp4?rlkey=z7npw728rb75c0uzb2sg58gzz&st=wpg4ev93&dl=0

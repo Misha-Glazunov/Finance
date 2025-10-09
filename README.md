@@ -11,6 +11,7 @@ https://www.dropbox.com/scl/fi/dvtcdv3ma5c9novllkafj/unknown_2025.10.08-19.57.mp
 - Docker-поддержка - запуск на любой системе без установки Java
 
 🚀 Быстрый старт
+
 Предварительные требования
 Docker Desktop установленный и запущенный
 

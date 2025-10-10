@@ -18,7 +18,7 @@ docker run -it finance-app
 ⚙️ Ручная установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/java-finance-app.git
+git clone https://github.com/Misha-Glazunov/Finance
 cd java-finance-app
 
 # Компиляция
@@ -28,7 +28,7 @@ javac src/*.java
 java -cp src FinanceApp
 ```
 ## 📖 Использование
-🔐 Регистрация и вход
+```🔐 Регистрация и вход
 text
 1. Register
 2. Login
@@ -38,6 +38,8 @@ text
 6. View Statistics
 7. Logout
 8. Exit
+```
+
 💸 Добавление дохода
 ```text
 Enter income amount: 50000

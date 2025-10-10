@@ -1,0 +1,7 @@
+services:
+  finance-app:
+    image: finance-app
+    build: .
+    container_name: finance-app-container
+    stdin_open: true
+    tty: true

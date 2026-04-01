@@ -1,6 +1,5 @@
 import java.util.*;
 
-// Класс пользователя
 class User {
     private String username;
     private String password;

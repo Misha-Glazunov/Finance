@@ -56,7 +56,7 @@ public class FinanceApp {
         }
         System.out.print("Enter expense amount: ");
         double amount = scanner.nextDouble();
-        scanner.nextLine(); // Consume newline
+        scanner.nextLine();
         System.out.print("Enter category: ");
         String category = scanner.nextLine();
         currentUser.getWallet().addExpense(amount, category);
@@ -71,7 +71,7 @@ public class FinanceApp {
         String category = scanner.nextLine();
         System.out.print("Enter budget amount: ");
         double amount = scanner.nextDouble();
-        scanner.nextLine(); // Consume newline
+        scanner.nextLine();
         currentUser.getWallet().setBudget(category, amount);
     }
 
@@ -90,7 +90,7 @@ public class FinanceApp {
         while (true) {
             System.out.println("\n1. Register\n2. Login\n3. Add Income\n4. Add Expense\n5. Set Budget\n6. View Statistics\n7. Logout\n8. Exit");
             int choice = scanner.nextInt();
-            scanner.nextLine(); // Consume newline
+            scanner.nextLine();
 
             switch (choice) {
                 case 1:
